@@ -1,0 +1,232 @@
+{
+  "heading": "Exponent",
+  "topics": [
+    {
+      "heading": "Exponent",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "In 4<sup>4</sup>, what is the base?",
+            "options": [
+                { "text": "4", "image": null },
+                { "text": "3", "image": null },
+                { "text": "12", "image": null },
+                { "text": "17", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 2,
+            "question": "In the expression a<sup>-2</sup>, what does the number -2 represent?",
+            "options": [
+                { "text": "Base", "image": null },
+                { "text": "Power", "image": null },
+                { "text": "Multiplier", "image": null },
+                { "text": "Divisor", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 3,
+            "question": "Alex used 4<sup>5</sup> blocks on one level. What does the power 5 mean?",
+            "options": [
+                { "text": "Multiply 4 by itself 5 times", "image": null },
+                { "text": "Multiply 5 by itself 4 times", "image": null },
+                { "text": "Add 2 three times", "image": null },
+                { "text": "Divide 2 by 3", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 4,
+            "question": "In the expression 10<sup>-2</sup>, which number is being multiplied repeatedly?",
+            "options": [
+                { "text": "6", "image": null },
+                { "text": "5", "image": null },
+                { "text": "10", "image": null },
+                { "text": "11", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 5,
+            "question": "In 100<sup>2</sup>, how many times do you multiply 100 by itself?",
+            "options": [
+                { "text": "10 times", "image": null },
+                { "text": "2 times", "image": null },
+                { "text": "1 time", "image": null },
+                { "text": "30 times", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 6,
+            "question": "How can you write 2×2×2 in exponential form?",
+            "options": [
+                { "text": "2<sup>3</sup>", "image": null },
+                { "text": "2<sup>4</sup>", "image": null },
+                { "text": "2<sup>2</sup>", "image": null },
+                { "text": "4<sup>2</sup>", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 7,
+            "question": "Alex placed 6×6×6×6×6 blocks on one level. How can this be written in exponential form?",
+            "options": [
+                { "text": "6<sup>3</sup>", "image": null },
+                { "text": "6<sup>4</sup>", "image": null },
+                { "text": "6<sup>5</sup>", "image": null },
+                { "text": "5<sup>6</sup>", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 8,
+            "question": "Simplify 8×8×8 into exponential form.",
+            "options": [
+                { "text": "8<sup>3</sup>", "image": null },
+                { "text": "3<sup>7</sup>", "image": null },
+                { "text": "8<sup>2</sup>", "image": null },
+                { "text": "8<sup>1</sup>", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 9,
+            "question": "Which expression is the same as <br>10<sup>3</sup>?",
+            "options": [
+                { "text": "9×9×9", "image": null },
+                { "text": "10×10×10", "image": null },
+                { "text": "9+9", "image": null },
+                { "text": "2×9", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 10,
+            "question": "Write 4×4×4 as a power.",
+            "options": [
+                { "text": "4<sup>5</sup>", "image": null },
+                { "text": "3<sup>4</sup>", "image": null },
+                { "text": "4<sup>4</sup>", "image": null },
+                { "text": "4<sup>3</sup>", "image": null }
+            ],
+            "answer": 3
+        },
+        {
+            "questionNo": 11,
+            "question": "Alex used 5<sup>-3</sup> blocks on one level. How would you simplify this expression?",
+            "options": [
+                { "text": "", "image": "./assests/images/option/1.jpg" },
+                { "text": "", "image": "./assests/images/option/2.jpg" },
+                { "text": "", "image": "./assests/images/option/3.jpg" },
+                { "text": "", "image": "./assests/images/option/4.jpg" }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 12,
+            "question": "What does (-1)<sup>0</sup> equal?",
+            "options": [
+                { "text": "0", "image": null },
+                { "text": "1", "image": null },
+                { "text": "-1", "image": null },
+                { "text": "Undefined", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 13,
+            "question": "Simplify 3<sup>3</sup>.",
+            "options": [
+                { "text": "", "image": "./assests/images/option/5.jpg" },
+                { "text": "", "image": "./assests/images/option/6.jpg" },
+                { "text": "", "image": "./assests/images/option/7.jpg" },
+                { "text": "", "image": "./assests/images/option/8.jpg" }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 14,
+            "question": "What is the value of (-27)<sup>0</sup>?",
+            "options": [
+                { "text": "0", "image": null },
+                { "text": "10", "image": null },
+                { "text": "1", "image": null },
+                { "text": "100", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 15,
+            "question": "Which of the following equals 3<sup>-2</sup>?",
+            "options": [
+                { "text": "", "image": "./assests/images/option/9.jpg" },
+                { "text": "", "image": "./assests/images/option/10.jpg" },
+                { "text": "", "image": "./assests/images/option/11.jpg" },
+                { "text": "", "image": "./assests/images/option/12.jpg" }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "If Alex placed blocks according to 10<sup>0</sup>, how many blocks would he have?",
+            "options": [
+                { "text": "0 blocks", "image": null },
+                { "text": "7 blocks", "image": null },
+                { "text": "1 block", "image": null },
+                { "text": "10 blocks", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 17,
+            "question": "Which of these is equal to <br><img width='40%' src='./assests/images/question/1.png'>",
+           "options": [
+                { "text": "", "image": "./assests/images/option/13.jpg" },
+                { "text": "", "image": "./assests/images/option/14.jpg" },
+                { "text": "", "image": "./assests/images/option/15.jpg" },
+                { "text": "", "image": "./assests/images/option/16.jpg" }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 18,
+            "question": "How would you simplify 6566<sup>0</sup>?",
+            "options": [
+                { "text": "6", "image": null },
+                { "text": "1", "image": null },
+                { "text": "0", "image": null },
+                { "text": "-6", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "What does a negative exponent tell you to do?",
+            "options": [
+                { "text": "Multiply the base by the exponent", "image": null },
+                { "text": "Flip the base into a fraction and apply the positive exponent", "image": null },
+                { "text": "Subtract the exponent from the base", "image": null },
+                { "text": "Add the base to the exponent", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "If 5<sup>2</sup> = 5 X 5, what is 5<sup>-2</sup>?",
+            "options": [
+                { "text": "", "image": "./assests/images/option/17.jpg" },
+                { "text": "", "image": "./assests/images/option/18.jpg" },
+                { "text": "", "image": "./assests/images/option/19.jpg" },
+                { "text": "", "image": "./assests/images/option/20.jpg" }
+            ],
+            "answer": 0
+        }
+    ]
+    
+    
+    }
+  ]
+}
